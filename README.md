@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantmakwana&label=Profile%20views&color=0e75b6&style=flat" alt="vedantmakwana" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python , Django , SQL**
+- 💬 Ask me about **python , Machine learning , SQL , Alogorithm , Deep learing**
 
 - 📫 How to reach me **Vedop9096@gmail.com**
 
